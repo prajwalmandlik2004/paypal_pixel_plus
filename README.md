@@ -1,6 +1,6 @@
 # 💸 PayPal Clone – Pixel Plus Hackathon Project
 
-## 🔗 **Live Demo**: https://your-deployed-site-link.com
+## 🔗 **Live Demo**: https://finance-pixel.netlify.app/
 
 ---
 
